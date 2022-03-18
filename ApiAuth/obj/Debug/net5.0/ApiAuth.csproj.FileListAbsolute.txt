@@ -1,0 +1,62 @@
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.exe
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.deps.json
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.runtimeconfig.json
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.runtimeconfig.dev.json
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ref\ApiAuth.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\ApiAuth.pdb
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.AssemblyReference.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.AssemblyInfoInputs.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.AssemblyInfo.cs
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\staticwebassets\ApiAuth.StaticWebAssets.Manifest.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\staticwebassets\ApiAuth.StaticWebAssets.xml
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\scopedcss\bundle\ApiAuth.styles.css
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.RazorTargetAssemblyInfo.cache
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.CopyComplete
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ref\ApiAuth.dll
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.pdb
+C:\Users\supero\Documents\Estudos\Projetos\C#\Balta\ApiAuth\ApiAuth\obj\Debug\net5.0\ApiAuth.genruntimeconfig.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.exe
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.deps.json
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.runtimeconfig.json
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.runtimeconfig.dev.json
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ref\ApiAuth.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\ApiAuth.pdb
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.AssemblyReference.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.AssemblyInfoInputs.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.AssemblyInfo.cs
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\staticwebassets\ApiAuth.StaticWebAssets.Manifest.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\staticwebassets\ApiAuth.StaticWebAssets.xml
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\scopedcss\bundle\ApiAuth.styles.css
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.RazorTargetAssemblyInfo.cache
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.csproj.CopyComplete
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ref\ApiAuth.dll
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.pdb
+C:\Users\anuska.rehn\Documents\Facul\TCC 1\CODE nukiBrecho\csharp-login\csharp-api-auth-master\ApiAuth\obj\Debug\net5.0\ApiAuth.genruntimeconfig.cache
